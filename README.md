@@ -10,4 +10,4 @@
 * On a new terminal, enter `python3 client.py --host localhost --port 10080` (The output will be shown in a new window).  
 
 
-Pressing 'q' on the client side within the CV2 window will isue a quit command to the client and server.
+Pressing 'q' on the client side within the CV2 window will send a quit command to the client and server.
